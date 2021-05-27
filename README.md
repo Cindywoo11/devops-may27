@@ -8,6 +8,6 @@ here I am just adding somemore text
 
 *and one more 
 
-![](Sentosa.jpg)
+![](sentosa.jpg)
 
 
